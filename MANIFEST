@@ -1,0 +1,15 @@
+Changes
+MANIFEST
+META.yml # Will be created by "make dist"
+Makefile.PL
+README
+lib/Games/Cards/Bridge/Contract.pm
+lib/Games/Cards/Bridge/Rubber.pm
+t/00-load.t
+t/boilerplate.t
+t/pod-coverage.t
+t/pod.t
+t/rubber.t
+t/scoring-defeated.t
+t/scoring-duplicate.t
+t/scoring-rubber.t
