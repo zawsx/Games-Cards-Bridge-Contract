@@ -136,7 +136,10 @@ No parameters needed.
 
 =head2 contract
 
-Add a contract to the rubber.  This needs the same arguments as L<Games::Cards::Bridge::Contract>'s constructor, as well as a I<direction> parameter of 'we' or 'they'. This method is also responsible for internally updating the attributes. See also L<http://www.acbl.org/learn/scoreRubber.html>
+Add a contract to the rubber.
+This needs the same arguments as L<Games::Cards::Bridge::Contract>'s constructor, as well as a I<direction> parameter of 'we' or 'they' (and the I<declarer> parameter is not used).
+This method is also responsible for internally updating the attributes.
+See also L<http://www.acbl.org/learn/scoreRubber.html>
 
 =head2 we_score
 

@@ -1,7 +1,5 @@
 #!/usr/bin/perl
 
-# prove -I. -v rubber.t
-
 use strict;
 use warnings;
 use Test::More tests => 19;

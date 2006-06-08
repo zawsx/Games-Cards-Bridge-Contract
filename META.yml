@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:                Games-Cards-Bridge-Contract
-version:             0.01
+version:             0.02
 abstract:            Bridge (card game) contract and scoring class
 license:             unknown
 generated_by:        ExtUtils::MakeMaker version 6.30_01
